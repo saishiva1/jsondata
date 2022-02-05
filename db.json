@@ -1,4 +1,4 @@
-[
+{"posts":[
   {
     "id": 1,
     "name": "Hadley Youens",
@@ -119,4 +119,4 @@
     "username": "Jule",
     "email": "jjelleyj@reverbnation.com"
   }
-]
+]}
