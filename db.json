@@ -1,122 +1,14 @@
-{"posts":[
-  {
-    "id": 1,
-    "name": "Hadley Youens",
-    "username": "Hadley",
-    "email": "hyouens0@va.gov"
-  },
-  {
-    "id": 2,
-    "name": "Ricard Sprowle",
-    "username": "Ricard",
-    "email": "rsprowle1@walmart.com"
-  },
-  {
-    "id": 3,
-    "name": "Lola McLagain",
-    "username": "Lola",
-    "email": "lmclagain2@hud.gov"
-  },
-  {
-    "id": 4,
-    "name": "Starla Cathrall",
-    "username": "Starla",
-    "email": "scathrall3@google.cn"
-  },
-  {
-    "id": 5,
-    "name": "Celestyn Grewar",
-    "username": "Celestyn",
-    "email": "cgrewar4@addthis.com"
-  },
-  {
-    "id": 6,
-    "name": "Kerr Iacovozzo",
-    "username": "Kerr",
-    "email": "kiacovozzo5@theguardian.com"
-  },
-  {
-    "id": 7,
-    "name": "Karin Eynald",
-    "username": "Karin",
-    "email": "keynald6@nbcnews.com"
-  },
-  {
-    "id": 8,
-    "name": "Marisa Fish",
-    "username": "Marisa",
-    "email": "mfish7@bluehost.com"
-  },
-  {
-    "id": 9,
-    "name": "Pamela Snow",
-    "username": "Pamela",
-    "email": "psnow8@csmonitor.com"
-  },
-  {
-    "id": 10,
-    "name": "Patrica Cornborough",
-    "username": "Patrica",
-    "email": "pcornborough9@dot.gov"
-  },
-  {
-    "id": 11,
-    "name": "Sven Vouls",
-    "username": "Sven",
-    "email": "svoulsa@cnet.com"
-  },
-  {
-    "id": 12,
-    "name": "Imelda Hessing",
-    "username": "Imelda",
-    "email": "ihessingb@wufoo.com"
-  },
-  {
-    "id": 13,
-    "name": "Sylvia Hoyer",
-    "username": "Sylvia",
-    "email": "shoyerc@acquirethisname.com"
-  },
-  {
-    "id": 14,
-    "name": "Maye Lisciandri",
-    "username": "Maye",
-    "email": "mlisciandrid@tiny.cc"
-  },
-  {
-    "id": 15,
-    "name": "Oralle Giuroni",
-    "username": "Oralle",
-    "email": "ogiuronie@ustream.tv"
-  },
-  {
-    "id": 16,
-    "name": "Dov Balog",
-    "username": "Dov",
-    "email": "dbalogf@infoseek.co.jp"
-  },
-  {
-    "id": 17,
-    "name": "Gamaliel Beardwell",
-    "username": "Gamaliel",
-    "email": "gbeardwellg@google.co.jp"
-  },
-  {
-    "id": 18,
-    "name": "Garrick Stuckes",
-    "username": "Garrick",
-    "email": "gstuckesh@nsw.gov.au"
-  },
-  {
-    "id": 19,
-    "name": "Zorine Tyrrell",
-    "username": "Zorine",
-    "email": "ztyrrelli@scribd.com"
-  },
-  {
-    "id": 20,
-    "name": "Jule Jelley",
-    "username": "Jule",
-    "email": "jjelleyj@reverbnation.com"
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]}
+}
